@@ -1,0 +1,24 @@
+.header{
+	text-align: center;
+	padding: 30px;
+	background-image: linear-gradient(white, lightblue);
+	border-radius: 10px 10px 0px 0px;
+}
+.link{
+	overflow: hidden;
+	background-image: linear-gradient(lightblue, white);
+}
+.column1{
+	float: left;
+	width: 100%;
+    background-image: linear-gradient(white, lightblue);
+    border-radius: 10px 10px 0px 0px;
+}
+.poin1{
+	padding: 10px;
+	margin-top: 10px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 10px;
+	padding-left: 30px;
+}
